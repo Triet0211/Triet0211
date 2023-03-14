@@ -29,7 +29,7 @@
   :beginner: Frameworks: Entity Framework Core, ASP.NET Core MVC, JUnit <br>
 
 <h2>My personal project :star:</h2>
-<strong>Included in each folder named after the semester mentioned</strong>
+<strong>Included in each folder named after the semester mentioned. <a href="https://github.com/Triet0211/personal-project" >Link to Github</a></strong>
 
 :point_right: _Thu Duc Library Web Application_ | Java Web | Semester 4/9 | May 2021 <br>
 A website to help the library promote products and expand its business.<br>
