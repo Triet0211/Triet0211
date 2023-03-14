@@ -18,15 +18,15 @@
 </div>
 </details> 
 
-- I'm currently a student at FPT University (semester 5/9) studying software engineering, majoring in Cross-platform application development.
+- I'm currently a student at FPT University (semester 9/9) studying software engineering, majoring in Cross-platform application development.
 - :high_brightness: <b>Language skills</b> <br>
-  :beginner: English: can read, write technical documents and communicate effectively. <br>
-  :beginner: Japanese: equals to N3 certificate. Aiming to get N2 qualification in July 2022. <br>
+  :beginner: English: can read, write documents and communicate effectively. <br>
+  :beginner: Japanese: got my N3 certificate (December 2021). Aiming to get N2 qualification in July 2023. <br>
   
 - :high_brightness: <b>Technical skills</b> <br>
-  :beginner: Languages: Java, C#, SQL, HTML, CSS, Javascript <br>
-  :beginner: Databases: SQL Server <br>
-  :beginner: Frameworks: Entity Framework Core, ASP.NET Core MVC, JUnit <br>
+  :beginner: Languages: Typescript, C#, SQL, Javascript <br>
+  :beginner: Databases: SQL Server, PostgresSQL <br>
+  :beginner: Frameworks: ExpressJS, Entity Framework Core, ASP.NET Core, gRPC <br>
 
 <h2>My personal project :star:</h2>
 <strong>Included in each folder named after the semester mentioned. <a href="https://github.com/Triet0211/personal-project" >Link to Github</a></strong>
@@ -51,6 +51,20 @@ Using Visual Studio 2019, ASP.NET Core MVC, Entity Framework Core, SQL Server.<b
   - A website to manage staff and books of a bookstore <br>
   - Using Visual Studio 2019, ASP.NET Core MVC, Entity Framework Core, SQL Server. <br>
   - Link to GitHub: <a href="https://github.com/Triet0211/BookManagementWeb.git">Bookstore Management</a>
+</p>
+<p>
+:point_right: <strong>Daisy </strong> | REST API with ASP .NET Core Web API - Back-end developer | Semester 7/9 | Apr 2022 <br>
+  - APIs for Daisy - a cross-platform application helps Freelancers find their appropriate projects and manage their profile <br>
+  - Using ASP .NET Core Web API, Entity Framework Core, SQL Server, gRPC, MongoDB (upload resources), Signal R (real-time chat), Notion for project management (SCRUM process), Momo e-wallet integration </br>
+  - Link to GitHub: <a href="https://github.com/sode-co/daisy-application">Daisy</a> </br>
+</p>
+<p>
+:point_right: <strong>Fastfix</strong> | REST API with Typescript - Back-end developer | Semester 8/9 | Oct 2022 <br>
+  - APIs for Fastfix - a progressive web app connects vehicle repair shops to their nearby people who are in needs <br>
+  - Providing APIs for services: emergency calls, repair shop locator, leaving feedbacks, manage employees in a shop </br>
+  - Using Visual Studio Code, ExpressJS, PostgresSQL, Socket.io <br>
+  - Link to GitHub: <a href="https://github.com/fastfix-exe"><img src="https://user-images.githubusercontent.com/90385862/225027330-7f0f828a-b342-42ef-9d3e-b30ea2972de2.png" height="15" width="15">Fastfix</a> </br>
+  - Introduction and awards ceremony: <a href="https://www.youtube.com/watch?v=XuYngw69FQI"> FPT Entrepreneurial Hackathon 2022 </a>
 </p>
 
 
