@@ -20,13 +20,14 @@
 
 - I'm currently a student at FPT University (semester 9/9) studying software engineering, majoring in Cross-platform application development.
 - :high_brightness: <b>Language skills</b> <br>
-  :beginner: English: can read, write documents and communicate effectively. <br>
+  :beginner: English: can read, write documents and communicate effectively (C1 level). <br>
   :beginner: Japanese: got my N3 certificate (December 2021). Aiming to get N2 qualification in July 2023. <br>
   
 - :high_brightness: <b>Technical skills</b> <br>
   :beginner: Languages: Typescript, C#, SQL, Javascript <br>
-  :beginner: Databases: SQL Server, PostgresSQL <br>
+  :beginner: Databases: SQL Server, PostgresSQL, MongoDB <br>
   :beginner: Frameworks: ExpressJS, Entity Framework Core, ASP.NET Core, gRPC <br>
+  :beginner: Aiming to pass the GCP Associate Cloud Engineer Certification exam this year (2023 :'>) <br>
 
 <h2>My personal project :star:</h2>
 <strong>Included in each folder named after the semester mentioned. <a href="https://github.com/Triet0211/personal-project" >Link to Github</a></strong>
