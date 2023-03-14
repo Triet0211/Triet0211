@@ -53,12 +53,20 @@ Using Visual Studio 2019, ASP.NET Core MVC, Entity Framework Core, SQL Server.<b
   - Link to GitHub: <a href="https://github.com/Triet0211/BookManagementWeb.git">Bookstore Management</a>
 </p>
 <p>
-:point_right: <strong>![image](https://user-images.githubusercontent.com/90385862/225027330-7f0f828a-b342-42ef-9d3e-b30ea2972de2.png =250x250)
-Fastfix -  </strong> | C# Web Application - Back-end developer | Semester 5/9 | Sep 2021 <br>
-  - A website to manage staff and books of a bookstore <br>
-  - Using Visual Studio 2019, ASP.NET Core MVC, Entity Framework Core, SQL Server. <br>
-  - Link to GitHub: <a href="https://github.com/Triet0211/BookManagementWeb.git">Bookstore Management</a>
+:point_right: <strong>Daisy </strong> | REST API with ASP .NET Core Web API - Back-end developer | Semester 7/9 | Apr 2022 <br>
+  - APIs for Daisy - a cross-platform application helps Freelancers find their appropriate projects and manage their profile <br>
+  - Using ASP .NET Core Web API, Entity Framework Core, SQL Server, gRPC, MongoDB (upload resources), Signal R (real-time chat), Notion for project management (SCRUM process), Momo e-wallet integration </br>
+  - Link to GitHub: <a href="https://github.com/sode-co/daisy-application">Daisy</a> </br>
 </p>
+<p>
+:point_right: <strong>Fastfix</strong> | REST API with Typescript - Back-end developer | Semester 8/9 | Oct 2022 <br>
+  - APIs for Fastfix - a progressive web app connects vehicle repair shops to their nearby people who are in needs <br>
+  - Providing APIs for services: emergency calls, repair shop locator, leaving feedbacks, manage employees in a shop </br>
+  - Using Visual Studio Code, ExpressJS, PostgresSQL, Socket.io <br>
+  - Link to GitHub: <a href="https://github.com/fastfix-exe"><img src="https://user-images.githubusercontent.com/90385862/225027330-7f0f828a-b342-42ef-9d3e-b30ea2972de2.png" height="15" width="15">Fastfix</a> </br>
+  - Introduction and awards ceremony: <a href="https://www.youtube.com/watch?v=XuYngw69FQI"> FPT Entrepreneurial Hackathon 2022 </a>
+</p>
+
 
 <h2>Connect with me!</h2>
  
