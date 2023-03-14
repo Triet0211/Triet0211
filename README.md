@@ -27,7 +27,7 @@
   :beginner: Languages: Typescript, C#, SQL, Javascript <br>
   :beginner: Databases: SQL Server, PostgresSQL, MongoDB <br>
   :beginner: Frameworks: ExpressJS, Entity Framework Core, ASP.NET Core, gRPC <br>
-  :beginner: Aiming to pass the GCP Associate Cloud Engineer Certification exam this year (2023 :'>) <br>
+  :beginner: Aiming to pass the GCP Associate Cloud Engineer Certification exam this year (2023) <br>
 
 <h2>My personal project :star:</h2>
 <strong>Included in each folder named after the semester mentioned. <a href="https://github.com/Triet0211/personal-project" >Link to Github</a></strong>
